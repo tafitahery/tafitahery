@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tafita Hery
 - 👀 I am interested in application development.
 - 🌱 I’m currently learning java (self-taught)
-- 💞️ I’m looking to collaborate on javascript project to get experience
+- 💞️ I’m looking to collaborate on JavaScript project to get experience
 - 📫 How to reach me : tafitahery@gmail.com
 
 <!---
